@@ -1,0 +1,37 @@
+{
+  "posts": [],
+  "signupUsers": [
+    {
+      "fullName": "Swaraj D",
+      "email": "swarajdarne.srj@gmail.com",
+      "mobile": "1111111111",
+      "password": "1111",
+      "id": 1
+    },
+    {
+      "fullName": "Soham P",
+      "email": "soham@gmail.com",
+      "mobile": "2222222222",
+      "password": "2222",
+      "id": 2
+    },
+    {
+      "fullName": "Aakash H",
+      "email": "aakash@gmail.com",
+      "mobile": "4444444444",
+      "password": "4444",
+      "id": 4
+    },
+    {
+      "fullName": "Abhi D",
+      "email": "abhi@gmail.com",
+      "mobile": "5555555555",
+      "password": "5555",
+      "confirm_password": "5555",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

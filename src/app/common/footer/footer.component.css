@@ -1,0 +1,18 @@
+i{
+  color: white;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
+li{
+  margin-bottom: 6px;
+}
+.icon{
+  align-items:center;
+  text-align: center;
+  margin: 10px;
+  padding: 10px 14px;
+  border: 1px solid white;
+  border-radius: 5px;
+}

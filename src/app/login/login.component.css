@@ -1,0 +1,16 @@
+
+.card{
+  margin-top: 30px;
+  border: none;
+  padding: 40px;
+}
+.btnMain{
+  background-color: crimson;
+  color: white;
+  border: 1px solid crimson;
+  }
+.btnMain:hover{
+background-color: white;
+color: crimson;
+border: 1px solid crimson;
+}
